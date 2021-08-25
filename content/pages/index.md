@@ -8,10 +8,7 @@ sections:
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
       that you can use on any device.
-    actions:
-      - label: Google Play
-        url: /pricing
-        style: secondary
+    actions: []
     image: images/hero.svg
     image_alt: Hero section placeholder image
     media_position: left
