@@ -153,10 +153,7 @@ sections:
     content: >-
       Download App Land now and connect with all your calendars, project
       management tools and task lists — it doesn't get easier than this!
-    actions:
-      - label: App Store
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
